@@ -12,8 +12,6 @@
 
 ## About Me
 
-I am an information security student working toward backend development. I like building reliable server-side systems, learning the Java ecosystem, and bringing a security mindset into engineering decisions.
-
 - Focused on: Java backend development, Spring ecosystem, APIs, databases, and system design basics
 - Security background: Crypto, Misc, Reverse, secure coding, CTF practice, and debugging
 - Comfortable with: Java, Python, Linux, Git, and backend fundamentals
