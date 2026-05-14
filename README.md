@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+hinaLove1;AI+Application+Builder;Java+%2F+Spring+%2F+Agent+Systems;Turning+ideas+into+usable+software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+hinaLove1;Information+Security+Student;Crypto+%2F+Misc+%2F+Reverse;Exploring+systems+from+the+inside+out)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,45:22C55E,100:F97316&text=Build%20with%20clarity.%20Ship%20with%20taste.&fontColor=ffffff&fontSize=34&fontAlignY=36&animation=fadeIn" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,45:22C55E,100:F97316&text=Break%20assumptions.%20Trace%20the%20truth.&fontColor=ffffff&fontSize=34&fontAlignY=36&animation=fadeIn" alt="Profile banner" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hinaLove1&style=for-the-badge&color=0ea5e9)](https://github.com/hinaLove1)
 [![GitHub Followers](https://img.shields.io/github/followers/hinaLove1?style=for-the-badge&logo=github&color=22c55e)](https://github.com/hinaLove1?tab=followers)
@@ -12,26 +12,26 @@
 
 ## About Me
 
-I build practical AI-powered software with a focus on clean architecture, reliable backends, and agent-style workflows. My work lives around Java, Spring, API design, and turning experimental AI ideas into systems that can actually be used, tested, and improved.
+I am an information security student exploring how systems behave, break, and defend themselves. My current interests are CTF-style problem solving, cryptography, miscellaneous security challenges, reverse engineering, and the engineering foundations that make security research practical.
 
-- Building: AI agents, backend services, automation tools, and developer-facing applications
-- Interested in: LLM applications, Spring ecosystem, prompt engineering, tool calling, and product-grade AI workflows
-- Working style: clear interfaces, readable code, fast feedback loops, and calm engineering decisions
-- Current direction: making AI applications more useful, observable, and easy to integrate
+- Focused on: Crypto, Misc, Reverse, secure coding, and low-level analysis
+- Learning through: CTF challenges, writeups, source reading, and hands-on debugging
+- Comfortable with: Java, Python, Linux, Git, and backend fundamentals
+- Current direction: building stronger security intuition while turning findings into clear notes and reproducible experiments
 
 ## Tech Stack
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316)
-![Spring](https://img.shields.io/badge/Spring-0f172a?style=for-the-badge&logo=spring&logoColor=22c55e)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6db33f)
-![Maven](https://img.shields.io/badge/Maven-0f172a?style=for-the-badge&logo=apachemaven&logoColor=c71a36)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8)
-![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=ef4444)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=60a5fa)
-![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=facc15)
+![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=60a5fa)
+![Crypto](https://img.shields.io/badge/Crypto-0f172a?style=for-the-badge&logo=hackthebox&logoColor=22c55e)
+![Reverse](https://img.shields.io/badge/Reverse-0f172a?style=for-the-badge&logo=gnubash&logoColor=38bdf8)
+![Misc](https://img.shields.io/badge/Misc-0f172a?style=for-the-badge&logo=target&logoColor=f97316)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0f172a?style=for-the-badge&logo=burpsuite&logoColor=ff6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=facc15)
 
 </div>
@@ -39,28 +39,25 @@ I build practical AI-powered software with a focus on clean architecture, reliab
 ## Focus Areas
 
 ```text
-AI Applications      [####################]  Agent workflows, tools, memory, evaluation
-Backend Engineering  [###################.]  Java, Spring, APIs, data flow, reliability
-Automation           [##################..]  CI, scripts, repeatable development loops
-Product Thinking     [#################...]  Useful interfaces, clear behavior, polished UX
+Crypto               [###################.]  Classical crypto, encoding, number theory, scripts
+Misc                 [##################..]  Forensics, traffic analysis, steganography, OSINT
+Reverse              [#################...]  Static analysis, debugging, binary behavior
+Engineering          [################....]  Java, Python, Linux, backend fundamentals
 ```
 
 ## GitHub Motion
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=hinaLove1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Signals" alt="GitHub stats" />
 <img height="168" src="https://github-readme-streak-stats.herokuapp.com?user=hinaLove1&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinaLove1&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-![Contribution Snake](https://raw.githubusercontent.com/hinaLove1/hinaLove1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ## Principles
 
-> Keep the system understandable. Make the useful path obvious. Let automation handle the boring parts. Ship code that future you will still trust.
+> Curiosity first. Verify the assumption. Read the trace. Explain the exploit clearly enough that future me can reproduce it.
 
 <div align="center">
 
